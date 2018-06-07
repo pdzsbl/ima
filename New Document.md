@@ -47,9 +47,9 @@
 
 ###4.界面###
 
-![初始界面](https://github.com/pdzsbl/ima/blob/master/88(QY~Q%24P_(%25(32NZ8SL%24%7DB.png)
+![image 初始界面](https://github.com/pdzsbl/ima/blob/master/sd.png)
 
-![运行界面](https://github.com/pdzsbl/ima/blob/master/JSN1_7A3BE6NRHE6%40RQ4%5DTS.png)
+![image 运行界面](https://github.com/pdzsbl/ima/blob/master/JSN1_7A3BE6NRHE6%40RQ4%5DTS.png)
 
 ###5.缺页率###
 经过实验，发现FIFO算法和LRU的缺页率稳定在55%~65%左右，二者缺页率相近。
